@@ -1,0 +1,8 @@
+opensmile
+pandas
+numpy
+librosa
+sklearn
+pytorch
+plotly
+matplotlib
