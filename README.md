@@ -27,7 +27,8 @@ Como correr nuestros experimentos:
         }
 
 4. Llamar a run_eperiments e indicarse el modelo, el diccionario de experimentos y el de parametros. Esperar a que tunee ;). 
-run_experiments('rf', experiments, param_grid)
+
+        run_experiments('rf', experiments, param_grid)
 
 5. Poner el modelo en produccion :D
 
